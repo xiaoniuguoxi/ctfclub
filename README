@@ -1,0 +1,36 @@
+===================================================
+README
+===================================================
+
+CocoaPods Environment Setup
+
+Using the default Ruby install will require you to use sudo when installing gems.
+
+$ sudo gem install cocoapods
+
+---------------------------------------------------
+
+Project Setup
+
+1. Do not open the project with Xcode
+2. Open the terminal
+	$ cd [project directory]
+	$ pod install
+
+From now on, open xxx.xcworkspace instead of xxx.xcodeproj.
+
+---------------------------------------------------
+
+Demo Server Test User Account
+
+Username / Password: 33 / vddeqrgk
+Username / Password: 55 / 55555
+
+---------------------------------------------------
+
+https://github.com/mwaterfall/MWPhotoBrowser/issues/563
+
+/Library/Developer/Xcode/DerivedData/MWPhotoBrowser-alquepoesrkvnebbewsbxrzidcii/Build/Products/Debug-iphonesimulator/MWPhotoBrowser.bundle: bundle format unrecognized, invalid, or unsuitable
+Command /usr/bin/codesign failed with exit code 1
+
+Solution: Run in the iPhone instead of simulator

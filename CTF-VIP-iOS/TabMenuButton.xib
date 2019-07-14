@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment version="2048" identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="TabMenuButton">
+            <connections>
+                <outlet property="backgroundView" destination="SMA-WC-o1b" id="TJc-xF-dnS"/>
+                <outlet property="contentView" destination="iN0-l3-epB" id="Yxr-ef-qkG"/>
+                <outlet property="iconImageView" destination="sqH-eQ-gv5" id="C1y-ba-vTD"/>
+                <outlet property="titleLabel" destination="qPW-Ko-6or" id="gvg-Mh-fCi"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="80" height="60"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="SMA-WC-o1b">
+                    <rect key="frame" x="2" y="2" width="76" height="56"/>
+                    <subviews>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Tab_Menu_01MemberArea" translatesAutoresizingMaskIntoConstraints="NO" id="sqH-eQ-gv5">
+                            <rect key="frame" x="28" y="5" width="20" height="20"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="20" id="8gb-1B-5qA"/>
+                                <constraint firstAttribute="height" constant="20" id="JQJ-sa-s2b"/>
+                            </constraints>
+                        </imageView>
+                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="M0f-nn-GTN">
+                            <rect key="frame" x="0.0" y="25" width="76" height="31"/>
+                            <subviews>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Member Area" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="qPW-Ko-6or">
+                                    <rect key="frame" x="0.0" y="9.5" width="76" height="12"/>
+                                    <fontDescription key="fontDescription" type="system" pointSize="10"/>
+                                    <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                            </subviews>
+                            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                            <constraints>
+                                <constraint firstAttribute="trailing" secondItem="qPW-Ko-6or" secondAttribute="trailing" id="JW6-o8-zKz"/>
+                                <constraint firstItem="qPW-Ko-6or" firstAttribute="leading" secondItem="M0f-nn-GTN" secondAttribute="leading" id="MHN-ss-AZM"/>
+                                <constraint firstAttribute="centerY" secondItem="qPW-Ko-6or" secondAttribute="centerY" id="oai-TD-nz9"/>
+                            </constraints>
+                        </view>
+                    </subviews>
+                    <color key="backgroundColor" red="0.26476076245307922" green="0.14897421002388" blue="0.32554763555526733" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstItem="M0f-nn-GTN" firstAttribute="leading" secondItem="SMA-WC-o1b" secondAttribute="leading" id="6uy-7M-HPH"/>
+                        <constraint firstItem="sqH-eQ-gv5" firstAttribute="top" secondItem="SMA-WC-o1b" secondAttribute="top" constant="5" id="LEU-Ad-ogv"/>
+                        <constraint firstItem="M0f-nn-GTN" firstAttribute="top" secondItem="sqH-eQ-gv5" secondAttribute="bottom" id="OBC-z3-il8"/>
+                        <constraint firstAttribute="bottom" secondItem="M0f-nn-GTN" secondAttribute="bottom" id="OTZ-8g-orD"/>
+                        <constraint firstAttribute="centerX" secondItem="sqH-eQ-gv5" secondAttribute="centerX" id="OcS-8j-qrd"/>
+                        <constraint firstAttribute="trailing" secondItem="M0f-nn-GTN" secondAttribute="trailing" id="efL-lK-R2G"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="SMA-WC-o1b" secondAttribute="trailing" constant="2" id="0I7-WV-v5l"/>
+                <constraint firstItem="SMA-WC-o1b" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="2" id="9rG-YX-fCQ"/>
+                <constraint firstAttribute="bottom" secondItem="SMA-WC-o1b" secondAttribute="bottom" constant="2" id="g0e-KJ-aaf"/>
+                <constraint firstItem="SMA-WC-o1b" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="2" id="oLg-vW-4CI"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="422" y="526.5"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="Tab_Menu_01MemberArea" width="30" height="30"/>
+    </resources>
+</document>

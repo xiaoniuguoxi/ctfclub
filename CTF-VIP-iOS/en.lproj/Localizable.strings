@@ -1,0 +1,242 @@
+/* 
+  Localizable.strings
+  CTF-VIP-iOS
+
+  Created by Winsey Li on 24/9/15.
+  Copyright (c) 2015 ctf. All rights reserved.
+*/
+
+"member_area" = "Member Area";
+"news_promotions" = "News & Promotions";
+"events" = "Events";
+"birthday_offers" = "Birthday Offers";
+"eshop" = "E-shop";
+"concierge_service" = "Concierge Service";
+"service_product_inquiry" = "Service & Product Inquiry";
+"about_ctf_club" = "About CTF Club";
+"newsletter" = "Newsletter";
+"lifestyle_journal" = "Lifestyle Journal";
+"shop_location" = "Shop Location";
+"daily_gold_price" = "Daily Gold Price";
+"contact_us" = "Contact Us";
+"staff_rating" = "Staff Rating";
+"questionnaire" = "Questionnaire";
+"settings" = "Settings";
+"international_shopper" = "International Shopper";
+
+"title_member_area" = "Member Area";
+"title_news_promotions" = "News & Promotions";
+"title_events" = "Events";
+"title_birthday_offers" = "Birthday Offers";
+"title_eshop" = "E-shop";
+"title_concierge_service" = "Concierge Service";
+"title_game_zone" = "Game Zone";
+"title_service_product_inquiry" = "Service & Product Inquiry";
+"title_about_ctf_club" = "About CTF Club";
+"title_newsletter" = "Newsletter";
+"title_lifestyle_journal" = "Lifestyle Journal";
+"title_shop_location" = "Shop Location";
+"title_daily_gold_price" = "Daily Gold Price";
+"title_contact_us" = "Contact Us";
+"title_staff_rating" = "Staff Rating";
+"title_questionnaire" = "Questionnaire";
+"title_settings" = "Settings";
+"title_international_shopper" = "International Shopper";
+
+"login" = "Login";
+"logout" = "Logout";
+"share" = "Share";
+
+"error" = "Error";
+"ok" = "OK";
+"cancel" = "Cancel";
+"alert" = "Alert";
+"yes" = "Yes";
+"no" = "No";
+"agree" = "Agree";
+"select" = "Please select";
+"error_email_invalid" = "Invalid email.";
+"error_password_invalid" = "Password must be 6 to 12 characters.";
+"error_password_mismatch" = "New password and confirm password are mismatch.";
+"alert_confirm_logout" = "Do you want to logout?";
+"alert_confirm_exit" = "Do you want to exit?";
+"error_no_network" = "No network connection available.";
+"error_login_failed" = "Login failed. Please check your card number and password.";
+"error_server_failure" = "Server failure. Please contact our website administrator.";
+
+"error_name" = "Name must be between 3 and 32 characters.\n";
+"error_phone_or_email" = "Please provide phone or email.\n";
+"error_email" = "E-Mail Address does not appear to be valid.\n";
+"error_address" = "Address does not appear to be valid.\n";
+"error_enquiry" = "Enquiry must be between 10 and 3000 characters.\n";
+"error_contact" = "Please select contact.\n";
+
+"loading" = "Loading";
+"please_wait" = "Please wait...";
+
+"book_now" = "Book Now";
+"redemption" = "Redemption";
+"play_video" = "Click here to play video";
+"rating_thank_you" = "Thank you for your opinion.";
+"enquiry_thank_you" = "Thank you for your message.";
+
+"mr" = "Mr.";
+"ms" = "Ms";
+"mrs" = "Mrs";
+"male" = "Male";
+"female" = "Female";
+"submit" = "Submit";
+"reset" = "Reset";
+
+"86" = "China(+86)";
+"852" = "Hongkong(+852)";
+"853" = "Macao(+853)";
+
+"settings_account" = "Account";
+"settings_sign_out" = "Sign out CTF VIP Club Member";
+"settings_preference" = "Preference";
+"settings_language" = "Language";
+"settings_manual" = "Manual";
+"settings_terms_of_use" = "Terms of Use";
+"settings_privacy_policy" = "Privacy";
+"settings_programme_terms" = "Programme Terms";
+"settings_help" = "Help";
+
+"contact_us_header" = "Chow Tai Fook Membership Programme";
+"contact_us_ctf_hotline" = "Hotline:";
+"contact_us_ctf_email" = "Email:";
+"contact_us_ctf_address" = "Address:";
+"contact_us_ctf_address_value" = "25/F, World Peace Centre,\n41-55 Wo Tong Tsui Street, Kwai Chung,\nNew Territories, Hong Kong";
+"contact_us_ctf_description" = "If you have any inquires in relation to the Chow Tai Fook Membership Programme or wish to share your views with us, please fill in your personal details below and we will get back to you as soon as possible. Many thanks.\n\nWe will collect, use and store any personal data you provide to us in connection with your request under this form in accordance with our \"Privacy Statement\".";
+"contact_us_form_name" = "Name:";
+"contact_us_form_email_address" = "Email address:";
+"contact_us_form_enquiry" = "Your enquiry / suggestion:";
+"contact_us_form_image" = "Image:";
+"take_photo" = "Take Photo";
+"select_from_gallery" = "Select from gallery";
+"audio" = "Audio:";
+
+"about_ctf_club_introduction" = "Introduction";
+"about_ctf_club_membership_tier" = "Membership Tier";
+"about_ctf_club_programme_details" = "Programme Details";
+"about_ctf_club_rewards" = "A world of rewards";
+
+"gold_price_header" = "Hong Kong Gold Price";
+"gold_price_999" = "999 Gold Price";
+"gold_price_redemption" = "Redemption Price";
+"gold_price_platinum" = "Platinum";
+"gold_price_gold_pellet" = "Gold Pellet";
+
+"gold_price_sale_in_hkd" = "Sale(HKD)";
+"gold_price_sale_in_cny" = "Sale(CNY)";
+"gold_price_purchase_in_hkd" = "Purchase(HKD)";
+"gold_price_purchase_in_cny" = "Purchase(CNY)";
+"gold_price_exchange_rate" = "Exchange rate: ";
+"gold_price_last_update" = "Last update: ";
+"gold_price_display_in_gram" = "Display in gram";
+"gold_price_display_in_tael" = "Display in tael";
+"gold_price_display_in_cny" = "Display in CNY";
+"gold_price_display_in_hkd" = "Display in HKD";
+
+"event_terms" = "Terms";
+"event_end" = "(The event is ended)";
+"event_booking_title" = "Online Booking";
+"event_booking_name" = "Name:";
+"event_booking_telephone" = "Telephone:";
+"event_booking_email" = "Email:";
+"event_booking_carry_num" = "No. of Participant(s)(With you):";
+"event_booking_contact" = "Contact:";
+"event_booking_option_email" = "Email";
+"event_booking_option_telephone" = "Telephone";
+"event_booking_participants_error" = "Please select the number of participant(s).\n";
+"event_booking_signed" = "You have signed up for the event, please wait for a reply.";
+"event_booking_waiting" = "Event is full now. You are now on the waiting list.";
+"event_booking_disable" = "This event is exclusive for selected members only. Please contact Chow Tai Fook Membership Programme hotline +852-21383399 shall you need further assistance.";
+
+"birthday_apply_title" = "Online Booking";
+"birthday_apply_name" = "Name:";
+"birthday_apply_telephone" = "Telephone:";
+"birthday_apply_email" = "Email:";
+"birthday_apply_collect" = "Redemption letter collected by:";
+"birthday_apply_by_post" = "Post";
+"birthday_apply_by_pickup" = "Pickup";
+"birthday_apply_address" = "Address:";
+"birthday_apply_shop_zone" = "Shop zone:";
+"birthday_apply_shop_address" = "Shop address:";
+"birthday_apply_option" = "Option:";
+"birthday_apply_error_collect" = "Please select \"Redemption letter collected by\".\n";
+"birthday_apply_success" = "Kindly note that we have notified your choice on birthday gift [%@]. You will be able to receive the redemption letter through the registered address [%@] in 14 working days for the birthday gift. Thanks.";
+
+"title_login" = "Login";
+"login_form_card_number" = "Your membership card number:";
+"login_form_password" = "Password:";
+"login_form_instruction" = "Default password has been sent to your registered mobile phone number via SMS. Case sensitive.";
+"login_form_login" = "Login";
+"login_form_forgot_password" = "Forgot Password?";
+"login_download_zone" = "Chow Tai Fook Membership Programme download zone";
+"login_download_instruction" = "Simply click below to download the form you require. Once the form is complete, return it to any Chow Tai Fook or ctf2/Chow Tai Fook Young Zone store in Hong Kong or Macau.";
+"login_download_pdf2" = "Chow Tai Fook Membership Information Update Form(PDF)";
+"login_download_pdf1" = "Application Form for Replacement of Chow Tai Fook Membership Card (PDF)";
+
+"title_forgot_password" = "Forgot Your Password?";
+"forgot_password_instruction" = "For your personal security, please input your membership card number. We will then send a new password to you by SMS.";
+"forgot_password_success" = "Your password has been reset and sent to you by SMS.";
+
+"account_summary_title" = "Account Summary";
+"account_summary_hello" = "Dear %@,";
+"account_summary_card_number" = "Membership card number: %@ (%@)";
+"account_summary_upgrade_to" = "Upgrade to %@";
+"account_summary_quali_for_upgrade" = "Qualifying spending for upgrade";
+"account_summary_extra_for_upgrade" = "Extra spending required to upgrade";
+"account_summary_retain_as" = "Retain as %@";
+"account_summary_quali_for_retain" = "Qualifying spending for retain";
+"account_summary_extra_for_retain" = "Extra spending required to retain";
+"account_summary_updated_as_of" = "Information updated as of: ";
+
+"first_time_reg_title" = "Obtain membership card";
+"first_time_reg_collect" = "Collected by:";
+"first_time_reg_by_post" = "Post";
+"first_time_reg_by_pickup" = "Pickup";
+"first_time_reg_address" = "Address:";
+"first_time_reg_shop_address" = "Shop address:";
+"first_time_reg_date_of_birth" = "Date of birth:";
+"first_time_reg_error_collect" = "Please select \"Collected by\".\n";
+"first_time_reg_error_shop_address" = "Please select \"Shop address\".\n";
+"first_time_reg_error_date_of_birth" = "Please select \"Date of birth\".\n";
+
+"membership_card_title" = "e-Member Card";
+"membership_barcode_title" = "Membership Barcode";
+"membership_card_qrcode_title" = "Membership Card QR";
+
+"change_password_title" = "Change Password";
+"change_password_old_password" = "Old Password";
+"change_password_new_password" = "New Password";
+"change_password_confirm_password" = "Confirm Password";
+"change_password_success" = "Password was changed successfully.";
+"change_password_invalid_password_length" = "Password must be 4 to 20 characters.\n";
+"change_password_mismatch_password" = "New password and confirm password are mismatch.\n";
+
+"staff_rating_mandatory" = "*Must fill in the fields";
+"staff_rating_name" = "Name";
+"staff_rating_telephone" = "Telephone";
+"staff_rating_gender" = "Gender";
+"staff_rating_invoice_no" = "Invoice number";
+"staff_rating_shop_zone" = "Shop zone";
+"staff_rating_shop" = "Shop address";
+"staff_rating_staff_name" = "Staff name";
+"staff_rating_staff_number" = "Staff number";
+"staff_rating_opinion" = "Opinion";
+
+"year" = "";
+"jan" = "January";
+"feb" = "February";
+"mar" = "March";
+"apr" = "April";
+"may" = "May";
+"jun" = "June";
+"jul" = "July";
+"aug" = "August";
+"sep" = "September";
+"oct" = "October";
+"nov" = "November";
+"dec" = "December";

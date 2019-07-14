@@ -1,0 +1,242 @@
+/* 
+  Localizable.strings
+  CTF-VIP-iOS
+
+  Created by Winsey Li on 24/9/15.
+  Copyright (c) 2015 ctf. All rights reserved.
+*/
+
+"member_area" = "会员专区";
+"news_promotions" = "最新消息及\n推广优惠";
+"events" = "精彩活动";
+"birthday_offers" = "生日礼遇";
+"eshop" = "网上商店";
+"concierge_service" = "礼宾服务";
+"service_product_inquiry" = "服务与产品咨询";
+"about_ctf_club" = "关於周大福\n会员计划";
+"newsletter" = "会员通讯";
+"lifestyle_journal" = "时尚生活杂志";
+"shop_location" = "分店地址";
+"daily_gold_price" = "金价";
+"contact_us" = "联络我们";
+"staff_rating" = "前线服务评分";
+"settings" = "设定";
+"questionnaire" = "调查问卷";
+"international_shopper" = "海外购物专区";
+
+"title_member_area" = "会员专区";
+"title_news_promotions" = "最新消息及推广优惠";
+"title_events" = "精彩活动";
+"title_birthday_offers" = "生日礼遇";
+"title_eshop" = "网上商店";
+"title_concierge_service" = "礼宾服务";
+"title_game_zone" = "游戏天地";
+"title_service_product_inquiry" = "服务与产品咨询";
+"title_about_ctf_club" = "关於周大福会员计划";
+"title_newsletter" = "会员通讯";
+"title_lifestyle_journal" = "时尚生活杂志";
+"title_shop_location" = "分店地址";
+"title_daily_gold_price" = "金价";
+"title_contact_us" = "联络我们";
+"title_staff_rating" = "前线服务评分";
+"title_settings" = "设置";
+"title_questionnaire" = "调查问卷";
+"title_international_shopper" = "海外购物专区";
+
+"login" = "登入";
+"logout" = "登出";
+"share" = "分享";
+
+"error" = "错误";
+"ok" = "确认";
+"cancel" = "取消";
+"alert" = "确认";
+"yes" = "是";
+"no" = "否";
+"agree" = "同意";
+"select" = "请选择";
+"error_email_invalid" = "电邮地址无效。";
+"error_password_invalid" = "密码必须为6至12位字元。";
+"error_password_mismatch" = "新密码与确认密码不匹配。";
+"alert_confirm_logout" = "确认登出？";
+"alert_confirm_exit" = "确认退出？";
+"error_no_network" = "没有网络连线。";
+"error_login_failed" = "登入失败，请检查会员卡号码及密码。";
+"error_server_failure" = "伺服器故障，请联络网站管理员。";
+
+"error_name" = "请在「名字」栏输入3-32个字符！\n";
+"error_phone_or_email" = "请提供「电话」或「电邮地址」！\n";
+"error_email" = "请输入正确的「电邮地址」！\n";
+"error_address" = "请输入正确的「地址」！\n";
+"error_enquiry" = "「意见」必须介乎10-3000个字符！\n";
+"error_contact" = "请选择「联络方法」！\n";
+
+"loading" = "处理中";
+"please_wait" = "请稍等...";
+
+"book_now" = "预约";
+"redemption" = "换领";
+"play_video" = "点击这里播放视频";
+"rating_thank_you" = "谢谢您的意见。";
+"enquiry_thank_you" = "谢谢您的留言。";
+
+"mr" = " 先生";
+"ms" = "小姐";
+"mrs" = "女士";
+"male" = "男";
+"female" = "女";
+"submit" = "提交";
+"reset" = "重设";
+
+"86" = "中国大陆(+86)";
+"852" = "香港(+852)";
+"853" = "澳门(+853)";
+
+"settings_account" = "帐户";
+"settings_sign_out" = "登出";
+"settings_preference" = "偏好设定";
+"settings_language" = "语言";
+"settings_manual" = "目录";
+"settings_terms_of_use" = "使用条款";
+"settings_privacy_policy" = "私隐政策";
+"settings_programme_terms" = "计划条款";
+"settings_help" = "网站助手";
+
+"contact_us_header" = "周大福会员计划";
+"contact_us_ctf_hotline" = "热线：";
+"contact_us_ctf_email" = "电邮地址：";
+"contact_us_ctf_address" = "地址：";
+"contact_us_ctf_address_value" = "香港新界葵涌禾塘咀街41-55号世和中心25楼";
+"contact_us_ctf_description" = "如您对周大福会员计划有任何查询或希望提供宝贵意见，欢迎填写下列资料，我们会尽快回应，谢谢！\n\n我们会按照我们的\"私隐声明\"收集、使用和存储任何由您在这表格下提出要求时向我们提供的个人资料。";
+"contact_us_form_name" = "姓名：";
+"contact_us_form_email_address" = "电邮地址：";
+"contact_us_form_enquiry" = "查询：";
+"contact_us_form_image" = "图片:";
+"take_photo" = "拍照";
+"select_from_gallery" = "从照片中选择";
+"audio" = "录音：";
+
+"about_ctf_club_introduction" = "关於我们";
+"about_ctf_club_rewards" = "精彩奖赏";
+"about_ctf_club_programme_details" = "计划详情";
+"about_ctf_club_membership_tier" = "成为会员";
+
+"gold_price_header" = "香港金价";
+"gold_price_999" = "饰金金价";
+"gold_price_redemption" = "换金金价";
+"gold_price_platinum" = "足铂金";
+"gold_price_gold_pellet" = "金粒";
+
+"gold_price_sale_in_hkd" = "卖出(港币)";
+"gold_price_sale_in_cny" = "卖出(人民币)";
+"gold_price_purchase_in_hkd" = "买入(港币)";
+"gold_price_purchase_in_cny" = "买入(人民币)";
+"gold_price_exchange_rate" = "人民币汇率：";
+"gold_price_last_update" = "最后修改时间：";
+"gold_price_display_in_gram" = "以克为单位显示";
+"gold_price_display_in_tael" = "以両位单位显示";
+"gold_price_display_in_cny" = "以人民币显示";
+"gold_price_display_in_hkd" = "以港币显示";
+
+"event_terms" = "活动条款";
+"event_end" = "（活动已完结）";
+"event_booking_title" = "在线预约";
+"event_booking_name" = "姓名：";
+"event_booking_telephone" = "电话：";
+"event_booking_email" = "电邮地址：";
+"event_booking_carry_num" = "参与人数(包括本人)：";
+"event_booking_contact" = "联络方法：";
+"event_booking_option_email" = "电邮";
+"event_booking_option_telephone" = "电话";
+"event_booking_participants_error" = "请选择参加人数。\n";
+"event_booking_signed" = "感谢您的参与! 你已成功报名出席活动。";
+"event_booking_waiting" = "活动已满，您现在进入等候队列。";
+"event_booking_disable" = "此活动只限特选客户参加，如有查询，请致电周大福会员专线 +852-21383399。";
+
+"birthday_apply_title" = "在线预约";
+"birthday_apply_name" = "姓名：";
+"birthday_apply_telephone" = "电话：";
+"birthday_apply_email" = "电邮地址：";
+"birthday_apply_collect" = "换领信索取方式：";
+"birthday_apply_by_post" = "邮寄挂号";
+"birthday_apply_by_pickup" = "商店自​​取";
+"birthday_apply_address" = "地址：";
+"birthday_apply_shop_zone" = "商铺区域：";
+"birthday_apply_shop_address" = "换领信索取分店：";
+"birthday_apply_option" = "选项：";
+"birthday_apply_error_collect" = "请选择「换领信索取方式」！\n";
+"birthday_apply_success" = "请知悉我们已收到您选取的礼品[%@]，并会于14个工作天内将礼品换领信安排邮寄至登记地址[%@]，以便您领取生日礼物。谢谢。";
+
+"title_login" = "登入";
+"login_form_card_number" = "会员卡号码：";
+"login_form_password" = "密码：";
+"login_form_instruction" = "默认密码已用短讯形式发送至阁下所登记的电话号码，密码须区分大小写。";
+"login_form_login" = "登入";
+"login_form_forgot_password" = "忘记密码？";
+"login_download_zone" = "周大福会员计划 - 下载专区";
+"login_download_instruction" = "请按以下连结下载所需表格。只需将填妥后的表格递交至任何一间港澳地区周大福、ctf2或周大福年青专区分店即可。";
+"login_download_pdf2" = "周大福会员资料更新表格(PDF)";
+"login_download_pdf1" = "周大福会员卡补领申请表 (PDF)";
+
+"title_forgot_password" = "忘记密码？";
+"forgot_password_instruction" = "为安全起见，请输入您的会员卡号码，我们将以手机短讯形式发送一个新密码给您。";
+"forgot_password_success" = "您的密码已重置并将以手机短讯形式发送给您。";
+
+"account_summary_title" = "账户摘​​要";
+"account_summary_hello" = "尊贵的%@，您好：";
+"account_summary_card_number" = "会员卡号码：%@（%@）";
+"account_summary_upgrade_to" = "升级至 %@ 会籍";
+"account_summary_quali_for_upgrade" = "升级有效累计消费金额";
+"account_summary_extra_for_upgrade" = "升级所需额外消费金额";
+"account_summary_retain_as" = "续期至 %@ 会籍";
+"account_summary_quali_for_retain" = "续期有效累计消费金额";
+"account_summary_extra_for_retain" = "续期所需额外消费金额";
+"account_summary_updated_as_of" = "资料截止日期：";
+
+"first_time_reg_title" = "填写资料取得会员卡";
+"first_time_reg_collect" = "取卡方式：";
+"first_time_reg_by_post" = "邮寄";
+"first_time_reg_by_pickup" = "分店自​​取";
+"first_time_reg_address" = "邮寄地址：";
+"first_time_reg_shop_address" = "取卡分店：";
+"first_time_reg_date_of_birth" = "出生日期：";
+"first_time_reg_error_collect" = "请选择「取卡方式」！\n";
+"first_time_reg_error_shop_address" = "请选择「取卡分店」！\n";
+"first_time_reg_error_date_of_birth" = "请选择「出生日期」！\n";
+
+"membership_card_title" = "电子会员卡";
+"membership_barcode_title" = "会员条码";
+"membership_card_qrcode_title" = "会员卡上二维码";
+
+"change_password_title" = "修改密码";
+"change_password_old_password" = "旧密码";
+"change_password_new_password" = "新密码";
+"change_password_confirm_password" = "确认密码";
+"change_password_success" = "密码更改成功。";
+"change_password_invalid_password_length" = "密码必须为4至20位字元。\n";
+"change_password_mismatch_password" = "新密码和确认密码不匹配。\n";
+
+"staff_rating_mandatory" = "*为必须填写栏位";
+"staff_rating_name" = "姓名";
+"staff_rating_telephone" = "电话";
+"staff_rating_gender" = "性别";
+"staff_rating_invoice_no" = "阁下的收据号码";
+"staff_rating_shop_zone" = "为阁下服务的商铺区域";
+"staff_rating_shop" = "为阁下服务的分店";
+"staff_rating_staff_name" = "为阁下服务的服务员姓名";
+"staff_rating_staff_number" = "为阁下服务的服务员工号";
+"staff_rating_opinion" = "意见";
+
+"year" = "年";
+"jan" = "1月";
+"feb" = "2月";
+"mar" = "3月";
+"apr" = "4月";
+"may" = "5月";
+"jun" = "6月";
+"jul" = "7月";
+"aug" = "8月";
+"sep" = "9月";
+"oct" = "10月";
+"nov" = "11月";
+"dec" = "12月";
